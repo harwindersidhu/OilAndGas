@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">OilAndGasProject</string>
+    <string name="view_image_mountain">view_image</string>
+    <string name="title_top">Rock Typing Module</string>
+    <string name="welcome">Welcome!</string>
+    <string name="title_discription">Load Core Analysis .CSV file to Start.</string>
+    <string name="menu">Menu</string>
+    <string name="instructions">Instructions</string>
+    <string name="hotels">Hotels</string>
+    <string name="Load_Data">Load Data</string>
+    <string name="data_title">Data Statistics</string>
+    <string name="copytoclip">Cleaning And Filtering</string>
+    <string name="min">Min = 0.01</string>
+    <string name="max">Max = 1.0</string>
+    <string name="mean">Mean = 0.5</string>
+    <string name="titlesample">TotalSample = 10</string>
+    <string name="graphone">graphone</string>
+    <string name="other">other</string>
+    <string name="delete_missing_data">Delete Missing Data</string>
+    <string name="before_image">This represents the image before filtering.</string>
+    <string name="after_image">This represents image after filtering.</string>
+    <string name="filter_value">Filtered Out: 0%</string>
+    <string name="plot_button">Plot</string>
+    <string name="select_all_and_load">Select All And Load</string>
+    <string name="change_plot_setup">Change Plot Setup</string>
+    <string name="save_and_export">Save and Export</string>
+    <string name="regression">Regression</string>
+    <string-array name="labels_array_selectDataOne">
+        <item>Data One</item>
+        <item>Data Two</item>
+        <item>Data Three</item>
+        <item>Data Four</item>
+    </string-array>
+    <string-array
+        name="labels_array_criteriaOne">
+        <item> <b>&gt;</b> </item>
+        <item> <b>&lt;</b> </item>
+        <item> <b>&gt;=</b></item>
+        <item><b>&lt;=</b></item>
+        <item><b>=</b></item>
+
+    </string-array>
+    <string-array name="labels_array_criteriaTwo">
+        <item> <b>&gt;</b> </item>
+        <item> <b>&lt;</b> </item>
+        <item> <b>&gt;=</b></item>
+        <item><b>&lt;=</b></item>
+        <item><b>=</b></item>
+
+    </string-array>
+
+</resources>
